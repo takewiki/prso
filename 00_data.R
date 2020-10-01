@@ -1,4 +1,5 @@
 # 设置app标题-----
+# v2
 
 app_title <-'App Template';
 
